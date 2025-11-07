@@ -58,7 +58,7 @@ const scriptSteps = [
 ]
 
 const randomMessages = [
-  { text: 'Stinker #2 out', image: snoopyImg },
+  { text: 'Stinker #1 out', image: snoopyImg },
 ]
 
 function App() {

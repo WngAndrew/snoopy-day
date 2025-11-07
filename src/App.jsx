@@ -54,11 +54,11 @@ const scriptSteps = [
   { text: "Get coconut water and buy something you don't need", image: shop },
   { text: 'Do a jumping jack and spin aroudn!', image: jump },
   { text: 'Be the awesome little stinker that you are!', image: snoopyImg },
-  { text: 'I love you Megan', image: snoopyImg }
+  { text: 'I love you Megan ❤️', image: snoopyImg }
 ]
 
 const randomMessages = [
-  { text: 'out', image: snoopyImg },
+  { text: 'Stinker #2 out', image: snoopyImg },
 ]
 
 function App() {
